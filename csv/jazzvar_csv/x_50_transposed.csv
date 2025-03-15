@@ -1,0 +1,79 @@
+0, 0, Header, 1, 4, 480
+1, 0, Start_track
+1, 0, Tempo, 500000
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, -3, "major"
+1, 1, End_track
+2, 0, Start_track
+2, 0, Title_t, "Piano, Piano, Piano\000"
+2, 0, Program_c, 0, 0
+2, 0, Control_c, 0, 7, 100
+2, 0, Control_c, 0, 10, 64
+2, 0, Control_c, 0, 91, 0
+2, 0, Note_on_c, 0, 74, 80
+2, 303, Note_on_c, 0, 74, 0
+2, 320, Note_on_c, 0, 74, 80
+2, 623, Note_on_c, 0, 74, 0
+2, 640, Note_on_c, 0, 74, 80
+2, 943, Note_on_c, 0, 74, 0
+2, 960, Note_on_c, 0, 71, 80
+2, 1415, Note_on_c, 0, 71, 0
+2, 1440, Note_on_c, 0, 72, 80
+2, 2807, Note_on_c, 0, 72, 0
+2, 2880, Note_on_c, 0, 74, 80
+2, 3791, Note_on_c, 0, 74, 0
+2, 3840, Note_on_c, 0, 72, 80
+2, 6119, Note_on_c, 0, 72, 0
+2, 6120, End_track
+3, 0, Start_track
+3, 0, Title_t, "Piano, Piano\000"
+3, 0, Program_c, 1, 0
+3, 0, Control_c, 1, 7, 100
+3, 0, Control_c, 1, 10, 64
+3, 0, Control_c, 1, 91, 0
+3, 0, Note_on_c, 1, 57, 80
+3, 0, Note_on_c, 1, 60, 80
+3, 0, Note_on_c, 1, 62, 80
+3, 0, Note_on_c, 1, 66, 80
+3, 1823, Note_on_c, 1, 57, 0
+3, 1823, Note_on_c, 1, 60, 0
+3, 1823, Note_on_c, 1, 62, 0
+3, 1823, Note_on_c, 1, 66, 0
+3, 1920, Note_on_c, 1, 57, 80
+3, 1920, Note_on_c, 1, 60, 80
+3, 1920, Note_on_c, 1, 62, 80
+3, 1920, Note_on_c, 1, 65, 80
+3, 2831, Note_on_c, 1, 57, 0
+3, 2831, Note_on_c, 1, 60, 0
+3, 2831, Note_on_c, 1, 62, 0
+3, 2831, Note_on_c, 1, 65, 0
+3, 2880, Note_on_c, 1, 55, 80
+3, 2880, Note_on_c, 1, 59, 80
+3, 2880, Note_on_c, 1, 62, 80
+3, 2880, Note_on_c, 1, 65, 80
+3, 3791, Note_on_c, 1, 55, 0
+3, 3791, Note_on_c, 1, 59, 0
+3, 3791, Note_on_c, 1, 62, 0
+3, 3791, Note_on_c, 1, 65, 0
+3, 3840, Note_on_c, 1, 55, 80
+3, 3840, Note_on_c, 1, 57, 80
+3, 3840, Note_on_c, 1, 60, 80
+3, 3840, Note_on_c, 1, 64, 80
+3, 7487, Note_on_c, 1, 55, 0
+3, 7487, Note_on_c, 1, 57, 0
+3, 7487, Note_on_c, 1, 60, 0
+3, 7487, Note_on_c, 1, 64, 0
+3, 7488, End_track
+4, 0, Start_track
+4, 0, Title_t, "Piano, Piano\000"
+4, 0, Program_c, 2, 0
+4, 0, Note_on_c, 2, 50, 80
+4, 1823, Note_on_c, 2, 50, 0
+4, 1920, Note_on_c, 2, 50, 80
+4, 2831, Note_on_c, 2, 50, 0
+4, 2880, Note_on_c, 2, 43, 80
+4, 3791, Note_on_c, 2, 43, 0
+4, 3840, Note_on_c, 2, 48, 80
+4, 7487, Note_on_c, 2, 48, 0
+4, 7488, End_track
+0, 0, End_of_file
